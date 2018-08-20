@@ -80,7 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
-					自主學習課程
+					自主學習課程 123
                 </div>
 
                 <div class="links">
